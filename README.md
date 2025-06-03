@@ -22,6 +22,11 @@
 
 # What is MCP?
 - MCP = Model Context Protocol, a recent innovation proposed to enhance how large language models (LLMs) handle long-term memory, tool use, and task orchestration.
-  
+
+
+# Installation 
+## Step 1 - Install Amazon Q on your system
+
+## Step 2 - Integrate MCP servers in AmazonQ
 
   
